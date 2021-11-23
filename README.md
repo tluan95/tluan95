@@ -1,7 +1,7 @@
 - 👋 Hi, I’m teddo
 - 👀 I’m interested in App Dev
-- 🌱 I’m currently learning Software Engineerung
-- 💞️ I’m looking to collaborate on Full Stack Dev
+- 🌱 graduated Software Engineerung
+- 💞️ I’m looking for jobs in App & Web Dev
 - 📫 Drop me DM!
 
 <!---
