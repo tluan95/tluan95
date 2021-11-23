@@ -1,6 +1,6 @@
 - 👋 Hi, I’m teddo
 - 👀 I’m interested in App Dev
-- 🌱 graduated Software Engineerung
+- 🌱 Graduated Software Engineerung
 - 💞️ I’m looking for jobs in App & Web Dev
 - 📫 Drop me DM!
 
