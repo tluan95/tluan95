@@ -1,7 +1,7 @@
-- 👋 Hi, I’m teddo
-- 👀 I’m interested in App Dev
+- 👋 Hi, I’m teddo (Ted)
+- 👀 I’m an App Dev
 - 🌱 Graduated Software Engineerung
-- 💞️ I’m looking for jobs in App & Web Dev
+- 💞️ I’m doing on App dev frontend
 - 📫 Drop me DM!
 
 <!---
